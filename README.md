@@ -10,7 +10,10 @@ cd tictactoe
 npm install
 npm run dev
 ```
-## Live on : https://ayushisinha1719.github.io/TicTacToe-React/
+### Live on : https://ayushisinha1719.github.io/TicTacToe-React/
+
+## Screenshots of the WebApp
+![Screenshot](preview.png)
 
 
 
